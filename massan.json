@@ -16,13 +16,12 @@
 "update_build":"1",  
 "update_version":"2.1.7",  
 "update_link":"https://archive.org/download/morpheus_201901/BeeTV_v2.1.7.apk",  
-"update_link_android4":"https://dl.dropboxusercontent.com/s/85dfojurf3otkzs/BeeTV_v2.1.7.apk",
 "pkg_uninstall":"me.bee.tvguide",  
 "pkg_uninstall_content":"Please uninstall old version",
 "enable_install_player":true,
-"title_player":"One Player",
+"title_player":"Titan Video Player",
 "description_player":"Best player to work with BeeTV. Less ads and better streaming!",
-"link_download_player":"https://dl.dropboxusercontent.com/s/r3yifyqttx4gt84/OnePlayer_v1.0.6r.apk",
-"package_name_player":"com.one.player",
-"player_versionbuild":"1"
+"link_download_player":"https://github.com/samtvapk/devd/releases/download/1.1.2x/1.1.2x.apk",
+"package_name_player":"com.titanx.videoplayerz",
+"player_versionbuild":"13"
 }
