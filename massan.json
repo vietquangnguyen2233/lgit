@@ -20,7 +20,7 @@
 "pkg_uninstall_content":"Please uninstall old version",
 "enable_install_player":true,
 "title_player":"Titan Video Player",
-"description_player":"Best player to work with BeeTV. Less ads and better streaming!",
+"description_player":"Please install Titan Player to play the match",
 "link_download_player":"https://github.com/samtvapk/devd/releases/download/1.1.2x/1.1.2x.apk",
 "package_name_player":"com.titanx.videoplayerz",
 "player_versionbuild":"13"
