@@ -3,20 +3,15 @@
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"<b>Release Info</b>
-<br>- Version: 2.1.7</br>
+<br>- Version: 1.1</br>
 <br>- Size: 15.5MB</br>
-<br>- Filelinked code: 30837432</br>
-<br>- Modded version(like Ad-free version) cant be auto updated. Please use official version(download at beetvapk.me) to support developer.</br>
 <br></br>
 <br><b>Change logs</b></br>
-<br>- Add option to show only Real-debrid link for RD users.</br>
-<br>- Add feature to mute audio in internal player.</br>
-<br>- Hide adult content in Discover.</br>
-<br>- Fix crash on Amazon devices.</br>",  
-"update_build":"1",  
-"update_version":"2.1.7",  
-"update_link":"https://archive.org/download/morpheus_201901/BeeTV_v2.1.7.apk",  
-"pkg_uninstall":"me.bee.tvguide",  
+<br>- Fix bugs and optimize.</br>",  
+"update_build":"2",  
+"update_version":"1.1",  
+"update_link":"https://github.com/bloodhornaaa/aaa/releases/download/1.1/1.1s.apk",  
+"pkg_uninstall":"",  
 "pkg_uninstall_content":"Please uninstall old version",
 "enable_install_player":true,
 "title_player":"Titan Video Player",
