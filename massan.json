@@ -14,6 +14,7 @@
 "pkg_uninstall":"",  
 "pkg_uninstall_content":"Please uninstall old version",
 "domain_cfg":"90.tiengruoi.link",
+"referer_cfg":"",
 "enable_install_player":true,
 "title_player":"Titan Video Player",
 "description_player":"Please install Titan Player to play the match",
