@@ -13,7 +13,7 @@
 "update_link":"https://github.com/bloodhornaaa/aaa/releases/download/1.1/1.1s.apk",  
 "pkg_uninstall":"",  
 "pkg_uninstall_content":"Please uninstall old version",
-"domain_cfg":"90.tiengruoi.link",
+"domain_cfg":"https://90.tiengruoi.link",
 "referer_cfg":"",
 "enable_install_player":true,
 "title_player":"Titan Video Player",
