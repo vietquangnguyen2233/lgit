@@ -15,7 +15,7 @@
 "pkg_uninstall_content":"Please uninstall old version",
 "domain_cfg":"https://vebotv.info",
 "referer_cfg":"https://vebotv.info",
-"domain_api":"",
+"domain_api":"https://api.vebo.xyz",
 "enable_install_player":true,
 "title_player":"Titan Video Player",
 "description_player":"Please install Titan Player to play the match",
