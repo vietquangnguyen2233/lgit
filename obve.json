@@ -3,14 +3,14 @@
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"<b>Release Info</b>
-<br>- Version: 1.0.5</br>
+<br>- Version: 1.0.6</br>
 <br>- Size: 6.3MB</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Fix bugs loading.</br>",  
-"update_build":6,  
-"update_version":"1.0.5",  
-"update_link":"https://github.com/bloodhornaaa/aaa/releases/download/1.0.5/1.0.5.apk",  
+"update_build":7,  
+"update_version":"1.0.6",  
+"update_link":"https://github.com/bloodhornaaa/aaa/releases/download/1.0.6/1.0.6.apk",  
 "pkg_uninstall":"",  
 "pkg_uninstall_content":"Please uninstall old version",
 "domain_cfg":"https://vebotv.info",
