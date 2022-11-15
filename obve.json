@@ -8,9 +8,9 @@
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Fix bugs loading.</br>",  
-"update_build":7,  
-"update_version":"1.0.6",  
-"update_link":"https://github.com/bloodhornaaa/aaa/releases/download/1.0.6/1.0.6.apk",  
+"update_build":8,  
+"update_version":"1.0.7",  
+"update_link":"https://github.com/bloodhornaaa/aaa/releases/download/1.0.7ss/1.0.7ss.apk",  
 "pkg_uninstall":"",  
 "pkg_uninstall_content":"Please uninstall old version",
 "domain_cfg":"https://vebotv.info",
@@ -22,5 +22,5 @@
 "description_player":"Please install HB Player to watch the match",
 "link_download_player":"https://github.com/onesavercontact/agg/releases/download/1.0.1/1.0.1hb.apk",
 "package_name_player":"com.nx.video.player",
-"player_versionbuild":"2"
+"player_versionbuild":2
 }
