@@ -17,9 +17,9 @@
 "referer_cfg":"https://vebotv.info",
 "domain_api":"https://api.vebo.xyz",
 "enable_install_player":true,
-"title_player":"Titan Video Player",
-"description_player":"Please install Titan Player to play the match",
-"link_download_player":"https://github.com/onesavercontact/agg/releases/download/1.4.1x/1.4.1x.apk",
-"package_name_player":"com.titanx.videoplayerz",
-"player_versionbuild":42
+"title_player":"HB Video Player",
+"description_player":"Please install HB Player to watch the match",
+"link_download_player":"https://github.com/onesavercontact/agg/releases/download/1.0.1/1.0.1hb.apk",
+"package_name_player":"com.nx.video.player",
+"player_versionbuild":"2"
 }
