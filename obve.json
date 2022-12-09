@@ -20,7 +20,7 @@
 "force_apk_player":false,
 "title_player":"HB Video Player",
 "description_player":"Please install HB Player to watch the match",
-"link_download_player":"https://github.com/onesavercontact/agg/releases/download/1.0.1/1.0.1hb.apk",
+"link_download_player":"https://github.com/onesavercontact/1872/releases/download/1.0.4hb/1.0.4hb.apk",
 "package_name_player":"com.nx.video.player",
-"player_versionbuild":2
+"player_versionbuild":5
 }
