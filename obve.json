@@ -17,10 +17,10 @@
 "referer_cfg":"https://vebotv.website/",
 "domain_api":"https://api.vebo.xyz",
 "enable_install_player":true,
-"force_apk_player":false,
+"force_apk_player":true,
 "title_player":"HB Video Player",
 "description_player":"Please install HB Player to watch the match",
-"link_download_player":"https://github.com/onesavercontact/1872/releases/download/1.0.4hb/1.0.4hb.apk",
+"link_download_player":"https://github.com/onesavercontact/1872/releases/download/1.1.1/1.1.1hb.apk",
 "package_name_player":"com.nx.video.player",
-"player_versionbuild":5
+"player_versionbuild":11
 }
