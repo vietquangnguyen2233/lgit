@@ -3,14 +3,14 @@
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"<b>Release Info</b>
-<br>- Version: 1.1.0</br>
+<br>- Version: 1.1.1</br>
 <br>- Size: 6.3MB</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Fix bugs loading.</br>",  
-"update_build":11,  
-"update_version":"1.1.0",  
-"update_link":"https://github.com/bloodhornaaa/adc/releases/download/1.1.0/1.1.0.apk",  
+"update_build":12,  
+"update_version":"1.1.1",  
+"update_link":"https://github.com/bloodhornaaa/32eqwqds/releases/download/1.1.1/1.1.1ss.apk",  
 "pkg_uninstall":"",  
 "pkg_uninstall_content":"Please uninstall old version",
 "domain_cfg":"https://vebotv.website/",
@@ -20,7 +20,7 @@
 "force_apk_player":true,
 "title_player":"HB Video Player",
 "description_player":"Please install HB Player to watch the match",
-"link_download_player":"https://github.com/onesavercontact/1872/releases/download/1.1.1/1.1.1hb.apk",
+"link_download_player":"https://github.com/bloodhornaaa/adc/releases/download/1.1.6hb/1.1.6hb.apk",
 "package_name_player":"com.nx.video.player",
-"player_versionbuild":"11"
+"player_versionbuild":"17"
 }
