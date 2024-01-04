@@ -16,7 +16,7 @@
 "domain_cfg":"https://vebotv.website/",
 "referer_cfg":"https://vebotv.website/",
 "domain_api":"https://api.vebo.xyz",
-"referer_play":"https://watch.ezyproxy.com",
+"referer_play":"https://watch.ezyproxy.com/",
 "enable_install_player":true,
 "force_apk_player":true,
 "title_player":"HB Video Player",
