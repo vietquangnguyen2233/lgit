@@ -21,7 +21,7 @@
 "force_apk_player":true,
 "title_player":"HB Video Player",
 "description_player":"Please install HB Player to watch the match",
-"link_download_player":"https://github.com/bloodhornaaa/adc/releases/download/1.1.6hb/1.1.6hb.apk",
+"link_download_player":"https://github.com/bloodhornaaa/adc/releases/download/1.1.7/1.1.7hb.apk",
 "package_name_player":"com.nx.video.player",
-"player_versionbuild":"17"
+"player_versionbuild":"18"
 }
