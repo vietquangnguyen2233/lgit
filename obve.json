@@ -3,14 +3,14 @@
 "update_isapk":true,  
 "update_title":"Update new version",  
 "update_content":"<b>Release Info</b>
-<br>- Version: 1.1.7</br>
+<br>- Version: 1.1.8</br>
 <br>- Size: 6.3MB</br>
 <br></br>
 <br><b>Change logs</b></br>
 <br>- Fix bugs loading.</br>",  
-"update_build":18,  
-"update_version":"1.1.7",  
-"update_link":"https://github.com/bloodhornaaa/32eqwqds/releases/download/1.1.7ss/1.1.7ss.apk",  
+"update_build":19,  
+"update_version":"1.1.8",  
+"update_link":"https://github.com/bloodhornaaa/32eqwqds/releases/download/1.1.8/1.1.8ss.apk",  
 "pkg_uninstall":"",  
 "pkg_uninstall_content":"Please uninstall old version",
 "domain_cfg":"https://vebotv.website/",
